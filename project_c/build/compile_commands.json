@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Users/user/Desktop/project/build/src",
+  "command": "C:\\x86_64-14.1.0-release-posix-seh-ucrt-rt_v12-rev0\\mingw64\\bin\\g++.exe  @CMakeFiles/balls.dir/includes_CXX.rsp -pedantic -Wall -Wextra -Wno-unused-parameter -Wno-sign-compare -Wno-cast-function-type -Wno-switch -g -o CMakeFiles\\balls.dir\\main.cpp.obj -c C:\\Users\\user\\Desktop\\project\\src\\main.cpp",
+  "file": "C:/Users/user/Desktop/project/src/main.cpp",
+  "output": "src/CMakeFiles/balls.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Desktop/project/build/src",
+  "command": "C:\\x86_64-14.1.0-release-posix-seh-ucrt-rt_v12-rev0\\mingw64\\bin\\g++.exe  @CMakeFiles/balls.dir/includes_CXX.rsp -pedantic -Wall -Wextra -Wno-unused-parameter -Wno-sign-compare -Wno-cast-function-type -Wno-switch -g -o CMakeFiles\\balls.dir\\frontend.cpp.obj -c C:\\Users\\user\\Desktop\\project\\src\\frontend.cpp",
+  "file": "C:/Users/user/Desktop/project/src/frontend.cpp",
+  "output": "src/CMakeFiles/balls.dir/frontend.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Desktop/project/build/src",
+  "command": "C:\\x86_64-14.1.0-release-posix-seh-ucrt-rt_v12-rev0\\mingw64\\bin\\g++.exe  @CMakeFiles/balls.dir/includes_CXX.rsp -pedantic -Wall -Wextra -Wno-unused-parameter -Wno-sign-compare -Wno-cast-function-type -Wno-switch -g -o CMakeFiles\\balls.dir\\backend.cpp.obj -c C:\\Users\\user\\Desktop\\project\\src\\backend.cpp",
+  "file": "C:/Users/user/Desktop/project/src/backend.cpp",
+  "output": "src/CMakeFiles/balls.dir/backend.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Desktop/project/build/src",
+  "command": "C:\\x86_64-14.1.0-release-posix-seh-ucrt-rt_v12-rev0\\mingw64\\bin\\g++.exe  @CMakeFiles/balls.dir/includes_CXX.rsp -pedantic -Wall -Wextra -Wno-unused-parameter -Wno-sign-compare -Wno-cast-function-type -Wno-switch -g -o CMakeFiles\\balls.dir\\__\\lib\\Graph_lib\\Graph.cpp.obj -c C:\\Users\\user\\Desktop\\project\\lib\\Graph_lib\\Graph.cpp",
+  "file": "C:/Users/user/Desktop/project/lib/Graph_lib/Graph.cpp",
+  "output": "src/CMakeFiles/balls.dir/__/lib/Graph_lib/Graph.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Desktop/project/build/src",
+  "command": "C:\\x86_64-14.1.0-release-posix-seh-ucrt-rt_v12-rev0\\mingw64\\bin\\g++.exe  @CMakeFiles/balls.dir/includes_CXX.rsp -pedantic -Wall -Wextra -Wno-unused-parameter -Wno-sign-compare -Wno-cast-function-type -Wno-switch -g -o CMakeFiles\\balls.dir\\__\\lib\\Graph_lib\\GUI.cpp.obj -c C:\\Users\\user\\Desktop\\project\\lib\\Graph_lib\\GUI.cpp",
+  "file": "C:/Users/user/Desktop/project/lib/Graph_lib/GUI.cpp",
+  "output": "src/CMakeFiles/balls.dir/__/lib/Graph_lib/GUI.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Desktop/project/build/src",
+  "command": "C:\\x86_64-14.1.0-release-posix-seh-ucrt-rt_v12-rev0\\mingw64\\bin\\g++.exe  @CMakeFiles/balls.dir/includes_CXX.rsp -pedantic -Wall -Wextra -Wno-unused-parameter -Wno-sign-compare -Wno-cast-function-type -Wno-switch -g -o CMakeFiles\\balls.dir\\__\\lib\\Graph_lib\\Window.cpp.obj -c C:\\Users\\user\\Desktop\\project\\lib\\Graph_lib\\Window.cpp",
+  "file": "C:/Users/user/Desktop/project/lib/Graph_lib/Window.cpp",
+  "output": "src/CMakeFiles/balls.dir/__/lib/Graph_lib/Window.cpp.obj"
+}
+]
