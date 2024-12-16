@@ -323,7 +323,6 @@ void Play_window::close_win()
 void Play_window::set_field(int amount)
 {
   int n{std::min(amount, (field_size / min_button_size))};
-  std::cout << n << std::endl;
   int cell_size;
   if (((field_size - field_space) / n) < min_button_size)
     cell_size = min_button_size;
